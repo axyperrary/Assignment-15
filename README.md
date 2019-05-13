@@ -5,3 +5,5 @@
 - How to run: Run the Flask app.
 - Deployed app: Not installed.
 - Screenshots:
+![](static/images/dashboard_part1.png)
+![](static/images/dashboard_part2.png)
